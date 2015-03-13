@@ -33,7 +33,7 @@
     "grunt": "~0.4.0"
   },
   "dependencies": {
-    "preprocess": "~2.1.0"
+    "preprocess": "git+https://github.com/BendingBender/preprocess.git#static-preprocess-directive"
   },
   "devDependencies": {
     "grunt": "~0.4.0",
